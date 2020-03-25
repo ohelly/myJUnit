@@ -1,4 +1,4 @@
-package myJUnit.Asserts;
+package myjunit.asserts;
 
 public class MyJUnitAsserts {
 	public static void assertEquals(Object first, Object second) {

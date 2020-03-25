@@ -1,4 +1,4 @@
-package myJUnit.calc;
+package myjunit.calc;
 
 import org.junit.Before;
 import org.junit.Test;

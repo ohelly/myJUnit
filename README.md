@@ -1,1 +1,1 @@
-# myJUnit
+# myjunit

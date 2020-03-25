@@ -1,11 +1,11 @@
-package myJUnit.test.calc;
+package myjunit.test.calc;
 
-import myJUnit.Annotation.After;
-import myJUnit.Annotation.Before;
-import myJUnit.Annotation.Test;
-import myJUnit.calc.Calculator;
+import myjunit.annotation.After;
+import myjunit.annotation.Before;
+import myjunit.annotation.Test;
+import myjunit.calc.Calculator;
 
-import static myJUnit.Asserts.MyJUnitAsserts.*;
+import static myjunit.asserts.MyJUnitAsserts.*;
 
 public class MyTests {
 	private static Calculator calculator;

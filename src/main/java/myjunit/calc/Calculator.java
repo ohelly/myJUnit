@@ -1,4 +1,4 @@
-package myJUnit.calc;
+package myjunit.calc;
 
 public class Calculator {
 
